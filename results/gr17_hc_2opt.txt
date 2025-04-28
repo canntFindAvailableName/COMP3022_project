@@ -1,0 +1,9 @@
+Algorithm: hc_2opt
+Input: tsp_data/gr17.tsp
+Cost: 2085.0000
+Path: [1, 4, 13, 7, 8, 6, 17, 14, 15, 3, 11, 10, 2, 5, 9, 12, 16]
+
+Statistics:
+Runtime: 0.000s
+Memory: 13.1 MB
+Iterations: 3

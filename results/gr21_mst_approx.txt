@@ -1,0 +1,9 @@
+Algorithm: mst_approx
+Input: tsp_data/gr21.tsp
+Cost: 3728.0000
+Path: [1, 12, 4, 11, 20, 10, 18, 13, 21, 15, 2, 14, 19, 17, 7, 8, 6, 16, 5, 9, 3]
+
+Statistics:
+Runtime: 0.000s
+Memory: 13.0 MB
+Mst Cost: 2161.0000

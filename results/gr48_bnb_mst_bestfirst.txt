@@ -1,0 +1,13 @@
+Algorithm: bnb
+Input: tsp_data/gr48.tsp
+LB: mst, Strategy: best_first
+Cost: 6098.0000
+Path: [1, 29, 7, 28, 46, 18, 34, 23, 25, 3, 19, 4, 30, 45, 2, 35, 20, 38, 43, 47, 37, 40, 39, 42, 24, 10, 12, 31, 33, 8, 22, 6, 36, 11, 16, 13, 48, 26, 15, 5, 21, 32, 27, 17, 9, 14, 44, 41]
+
+Statistics:
+Runtime: 600.008s
+Memory: 2133.3 MB
+Nodes Explored: 55160
+Nodes Generated: 2126942
+Pruned Count: 0
+Initial Upper Bound: 6098.0000

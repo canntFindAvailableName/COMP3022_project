@@ -1,0 +1,8 @@
+Algorithm: nn
+Input: tsp_data/gr21.tsp
+Cost: 3333.0000
+Path: [1, 12, 4, 11, 20, 10, 18, 21, 15, 2, 14, 13, 17, 19, 7, 8, 6, 16, 5, 9, 3]
+
+Statistics:
+Runtime: 0.000s
+Memory: 13.0 MB

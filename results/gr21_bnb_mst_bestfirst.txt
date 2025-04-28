@@ -1,0 +1,13 @@
+Algorithm: bnb
+Input: tsp_data/gr21.tsp
+LB: mst, Strategy: best_first
+Cost: 2707.0000
+Path: [1, 12, 4, 11, 20, 19, 17, 10, 18, 13, 14, 15, 21, 2, 3, 9, 5, 16, 6, 8, 7]
+
+Statistics:
+Runtime: 7.634s
+Memory: 125.7 MB
+Nodes Explored: 133938
+Nodes Generated: 137242
+Pruned Count: 126191
+Initial Upper Bound: 3333.0000

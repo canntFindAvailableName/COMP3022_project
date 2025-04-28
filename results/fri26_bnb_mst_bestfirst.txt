@@ -1,0 +1,13 @@
+Algorithm: bnb
+Input: tsp_data/fri26.tsp
+LB: mst, Strategy: best_first
+Cost: 937.0000
+Path: [1, 2, 3, 4, 6, 5, 7, 8, 9, 10, 14, 15, 13, 12, 11, 16, 19, 20, 18, 17, 21, 22, 26, 23, 24, 25]
+
+Statistics:
+Runtime: 153.710s
+Memory: 1916.7 MB
+Nodes Explored: 1961544
+Nodes Generated: 2114941
+Pruned Count: 1983051
+Initial Upper Bound: 1112.0000
